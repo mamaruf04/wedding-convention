@@ -1,0 +1,13 @@
+.carousel-sm{
+    object-fit: cover;
+}
+.alignment{
+    left: 0;
+    right: 0;
+}
+.top-margin{
+    margin-top: 72px;
+}
+.radious{
+    border-radius: 20px;
+}
